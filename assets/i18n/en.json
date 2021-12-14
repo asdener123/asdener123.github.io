@@ -1,0 +1,138 @@
+{
+  "header": {
+    "launchApp": "Launch app"
+  },
+  "footer": {
+    "community": "Community",
+    "documents": "Documents",
+    "company": "Company"
+  },
+  "nav": {
+    "team": "Team",
+    "fiatOnRamp": "Fiat On-Ramp",
+    "faq": "FAQ",
+    "roadmap": "Roadmap",
+    "pitchDeck": "Pitch Deck",
+    "whitePaper": "White Paper",
+    "onePager": "One Pager",
+    "merchShop": "Merch Shop",
+    "settings": "Settings",
+    "contactOurTeam": "Contact Our Team",
+    "menu": "Menu"
+  },
+  "settings": {
+    "darkMode": "Dark mode",
+    "themeForTheWeb": "Theme for the web",
+    "chooseLanguage": "Choose language",
+    "tutorials": "Tutorials",
+    "howToUse": "How to use",
+    "languages": "Languages"
+  },
+  "main": {
+    "multiChain": "Multi-chain",
+    "swap": "swap",
+    "protocol": "protocol",
+    "rubic": "Rubic",
+    "multiChainSwapProtocolWhich": "is a Multi-chain Swap Protocol which",
+    "allows": "allows",
+    "you": "you",
+    "toSwap": "to swap",
+    "anyOf": "any of",
+    "of10000": "10000+ tokens, on",
+    "and": "and",
+    "onAndBetween8Blockchains": "between 8 blockchains in one click.",
+    "startTrading": "Start Trading"
+  },
+  "advantages": {
+    "multiChainSwaps" : "Multi-chain swaps",
+    "swapAssetsBetweenMultipleBlockchainsInASingleSwap": "Swap assets between multiple\nblockchains in a single swap",
+    "blockchains": "8 Blockchains",
+    "tradeAssets": "Trade 10000+ assets",
+    "tradeMoreAssetsWithTheLowestGasFees": "Trade more assets with the\nlowest gas fees"
+  },
+  "about": {
+    "whatIs": "What is",
+    "rubic": "Rubic",
+    "multiChainProtocol": "is a Multi-Chain protocol that",
+    "allowsTo": "allows to complete",
+    "swapsBetween": "swaps between 10.000 tokens",
+    "blockchains": "on Ethereum, Binance Smart Chain, Polygon, Avalanche, Fantom and MoonRiver",
+    "in1Click": "in 1 click.",
+    "ourProtocol": "Our protocol features",
+    "dex": "60 DEXs,",
+    "fiat": "fiat on-ramps and Bridges.",
+    "pitchDeck": "Pitch Deck",
+    "onePager": "One Pager"
+  },
+  "grants": {
+    "grants": "Grants",
+    "forRubic": "for Rubic",
+    "rubicHasWonGrantsWith": "Rubic has won grants with",
+    "majorBlockchainPlatforms": "major blockchain platforms",
+    "suchAs": "such as"
+  },
+  "audits": {
+    "rubic": "Rubic",
+    "audits": "Audits",
+    "contractsAreCurrently": "Rubic Multi-Chain contracts are currently being audited by CertiK team."
+  },
+  "partnership": {
+    "rubic": "Rubic",
+    "supports": "supports",
+    "dexes": "Dexes",
+    "blockchains": "Blockchains"
+  },
+  "trade": {
+    "trade": "Trade",
+    "getWidget": "Get Widget",
+    "yourToken": "your token",
+    "directlyOn": "directly on",
+    "yourPlatform": "your platform!",
+    "theRubicRelay": "The Rubic Relay",
+    "widgetEnables": "Widget enables",
+    "users": "users",
+    "toBuy": "to buy and sell tokens on any website.",
+    "thisMeans": "This means that your users can buy token, without having to leave your website! It’s",
+    "free": "free",
+    "and": "and",
+    "easy": "easy to setup."
+  },
+  "documentation": {
+    "documentation": "Documentation",
+    "findOutMore": "Find out more about our Multi-Chain solution and platform.",
+    "knowMore": "Know more"
+  },
+  "subscription": {
+    "subscribeToOurNewsletter": "Subscribe to our newsletter",
+    "fillInYourEmail": "Fill in your email to receive Rubic’s latest info and updates",
+    "submit": "Submit"
+  },
+  "contact": {
+    "get": "Get",
+    "involved": "Involved",
+    "contactUsToLearn": "Contact us to learn more about how you can become a validator, develop an application on the network, or integrate your chain.",
+    "byClicking": "By clicking the \"Submit Message\" button, you automatically agree to the",
+    "privacyPolicy": "privacy policy",
+    "submitMessage": "Submit Message"
+  },
+  "feedback": {
+    "yourName": "Your name*",
+    "emailAdress": "Email adress*",
+    "telegram": "Telegram account*",
+    "companyOrProject": "Company or Project*",
+    "companyWebsiteURL": "Company website URL*",
+    "selectReason": "Select reason, why are you interested in Rubic?*",
+    "yourMessage": "Your message to our team",
+    "integrateOurBlockchain": "Integrate our blockchain to Rubic",
+    "MultiChainSwapProtocol": "Multi-chain swap protocol",
+    "CommerceDeal": "Commerce Deal",
+    "ProblemsMultiChainRouting": "Problems with Rubic Multi-Chain Routing"
+  },
+  "modal": {
+    "WeSentConfirmation": "Thank you!\n We've sent a confirmation letter to your mail.",
+    "theApplicationHasBeenSubmitted": "Thank you!\n The application has been submitted",
+    "theWidgetOnlySupports": "The widget only supports tokens that are listed at Rubic.exchange. In order to be listed, please fill the form. Check docs for selfintegration.",
+    "submit": "Submit",
+    "ok": "OK"
+  }
+}
